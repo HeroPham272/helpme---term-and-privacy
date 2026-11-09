@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Điều khoản dịch vụ</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            background-color: #fff;
+        }
+        h1 { font-size: 24px; color: #111; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { font-size: 18px; color: #0056b3; margin-top: 25px; border-left: 4px solid #0056b3; padding-left: 8px; }
+        p, li { font-size: 14.5px; color: #444; text-align: justify; }
+        ul { padding-left: 20px; }
+        .highlight-box { background-color: #f8f9fa; border: 1px solid #dee2e6; padding: 15px; margin: 15px 0; border-radius: 4px; }
+        .date { font-style: italic; color: #777; font-size: 12.5px; }
+    </style>
+</head>
+<body>
+
+    <h1>Điều Khoản Dịch Vụ (Terms of Service)</h1>
+    <p class="date">Cập nhật lần cuối: Ngày 09 tháng 11 năm 2026</p>
+
+    <p>Chào mừng bạn đến với ứng dụng của chúng tôi (sau đây gọi là "Ứng dụng"). Đây là công cụ kỹ thuật số hỗ trợ quản lý năng suất, ghi chép và chia sẻ thông tin kết nối ngang hàng giữa Người có nhu cầu cần hỗ trợ cá nhân và Người có khả năng tham gia hỗ trợ. Bằng việc tải, cài đặt, tạo tài khoản hoặc sử dụng bất kỳ tính năng nào của Ứng dụng, bạn đồng ý tuân thủ và chịu sự ràng buộc bởi toàn bộ các điều khoản quy định dưới đây.</p>
+
+    <h2>1. Điều kiện tham gia và Quản lý tài khoản</h2>
+    <ul>
+        <li><strong>Độ tuổi tối thiểu:</strong> Bạn phải từ <strong>đủ 16 tuổi trở lên</strong> để tạo tài khoản và sử dụng các tính năng trên Ứng dụng.</li>
+        <li><strong>Xác thực thông tin:</strong> Ứng dụng thực hiện xác thực người dùng thông qua <strong>Tài khoản điện tử (Email / Google Account / Apple ID)</strong>. Bạn cam kết cung cấp thông tin hiển thị chính xác, không mạo danh người khác và tự chịu trách nhiệm về tính xác thực của các thông tin cá nhân bổ sung (nếu có) được điền trong quá trình sử dụng.</li>
+        <li><strong>Bảo mật tài khoản:</strong> Bạn chịu trách nhiệm duy nhất trong việc bảo mật tài khoản cá nhân thông qua các phương thức đăng nhập liên kết. Mọi hành vi được thực hiện dưới tài khoản của bạn sẽ được coi là hành vi trực tiếp của bạn.</li>
+    </ul>
+
+    <h2>2. Mô hình hoạt động và Nguồn thu nền tảng</h2>
+    <p>Ứng dụng vận hành như một công cụ hỗ trợ thông tin ngang hàng (P2P):</p>
+    <ul>
+        <li>Cung cấp không gian số để Người cần hỗ trợ ghi chép, đăng tải nội dung mô tả công việc và Người có khả năng hỗ trợ tìm kiếm, tiếp nhận thông tin.</li>
+        <li>Ứng dụng hiển thị thông tin quảng cáo từ các đối tác phân phối (như Google AdMob...) để duy trì hạ tầng kỹ thuật và cung cấp các tính năng cốt lõi hoàn toàn miễn phí cho người dùng. Chúng tôi không can thiệp, không thu phí dịch vụ, không chiết khấu hoa hồng và không quản lý bất kỳ dòng tiền giao dịch nào giữa các người dùng.</li>
+    </ul>
+
+    <h2>3. Quy tắc ứng xử và Luồng chia sẻ thông tin liên hệ</h2>
+    <p>Để đảm bảo môi trường cộng đồng an toàn và bảo mật dữ liệu, người dùng cam kết tuân thủ luồng tính năng sau:</p>
+    <ul>
+        <li>Không đăng tải thông tin yêu cầu hỗ trợ giả mạo, lừa đảo, hoặc các nội dung vi phạm pháp luật Việt Nam, kích động bạo lực, đồi trụy.</li>
+        <li><strong>Cơ chế tự nguyện chia sẻ thông tin:</strong> Bạn hiểu rõ rằng Ứng dụng không tự ý công khai số điện thoại của người dùng ra toàn bộ hệ thống. Khi Người có khả năng hỗ trợ chủ động ấn nút <strong>"Chấp nhận"</strong>, người đó <strong>tự nguyện và cho phép</strong> hệ thống hiển thị số điện thoại của mình duy nhất cho Người cần hỗ trợ nhìn thấy để thiết lập liên lạc trực tiếp.</li>
+        <li>Thông tin liên hệ (số điện thoại) nhận được từ đối tác thông qua tính năng trên chỉ được sử dụng duy nhất cho mục đích trao đổi công việc hỗ trợ. Nghiêm cấm hành vi quấy rối, đe dọa, xúc phạm hoặc sử dụng thông tin này vào mục đích bất hợp pháp.</li>
+    </ul>
+
+    <h2>4. Giới hạn trách nhiệm pháp lý và Miễn trừ trách nhiệm</h2>
+    <div class="highlight-box">
+        <strong>TUYÊN BỐ QUAN TRỌNG VỀ TRÁCH NHIỆM:</strong> Bạn hiểu và đồng ý sâu sắc rằng:
+        <ul>
+            <li>Ban quản trị ứng dụng chỉ cung cấp <strong>công cụ công nghệ kết nối hiển thị thông tin</strong>. Chúng tôi không phải là bên thuê lao động, bên môi giới, đại lý hay bên chịu trách nhiệm quản lý hành vi của bất kỳ người dùng nào.</li>
+            <li>Mọi thỏa thuận về chi phí bồi dưỡng (nếu có thương lượng riêng), phương thức thực hiện và an toàn hoàn toàn là giao dịch dân sự, trực tiếp, tự nguyện và tự chịu trách nhiệm giữa các cá nhân ngoài đời thực.</li>
+            <li>Chúng tôi <strong>không chịu trách nhiệm bồi thường</strong> cho bất kỳ thiệt hại, tổn thất, tranh chấp nào về mặt sức khỏe, tính mạng, tinh thần, hoặc tài sản phát sinh từ các hành vi tương tác, gặp gỡ và làm việc ngoài đời thực giữa các người dùng.</li>
+            <li>Trong trường hợp xảy ra sự cố nghiêm trọng hoặc có dấu hiệu vi phạm pháp luật, ứng dụng sẽ phối hợp cung cấp lịch sử kết nối hệ thống (Log dữ liệu đăng ký email/hành vi bấm kết nối) cho cơ quan chức năng Việt Nam khi có yêu cầu bằng văn bản.</li>
+        </ul>
+    </div>
+
+    <h2>5. Quyền khóa tài khoản và Tính năng báo cáo (UGC)</h2>
+    <p>Chúng tôi giữ toàn quyền tạm khóa hoặc xóa vĩnh viễn tài khoản người dùng mà không cần báo trước trong các trường hợp:</p>
+    <ul>
+        <li>Bạn vi phạm bất kỳ quy định nào trong bản Điều khoản dịch vụ này.</li>
+        <li>Ứng dụng tích hợp sẵn tính năng <strong>Báo cáo (Report)</strong> nội dung xấu. Nếu tài khoản hoặc bài đăng của bạn nhận được các lượt báo cáo vi phạm có căn cứ từ những người dùng khác, hệ thống sẽ tự động hoặc thủ công ẩn nội dung và chấm dứt quyền truy cập dịch vụ của bạn để bảo vệ cộng đồng.</li>
+    </ul>
+
+    <h2>6. Thay đổi điều khoản và Luật áp dụng</h2>
+    <ul>
+        <li>Chúng tôi có quyền cập nhật, sửa đổi nội dung điều khoản này bất kỳ lúc nào để phù hợp với các quy định pháp lý hoặc cập nhật kỹ thuật mới. Việc bạn tiếp tục sử dụng ứng dụng đồng nghĩa với việc bạn hoàn toàn chấp nhận các thay đổi đó.</li>
+        <li>Mọi tranh chấp phát sinh giữa bạn và nhà phát triển ứng dụng (nếu có) sẽ được giải quyết trên cơ sở thương lượng thương mại. Trong trường hợp không thể tự thỏa thuận, tranh chấp sẽ được phân xử theo pháp luật và cơ quan phán quyết có thẩm quyền tại Việt Nam.</li>
+    </ul>
+
+</body>
+</html>
